@@ -11,7 +11,7 @@ namespace IHateSharp
 		public string Name;
 		public virtual void Noise()
 		{
-			Console.WriteLine("Абстрактный му");
+			Console.WriteLine("Strange sounds");
 		}
 	}
 	class Cat : Animal
